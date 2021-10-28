@@ -1,0 +1,6 @@
+greeting_casual  hi hey . What's up ?  G'day howdy how r u doing how it's going Yo sup ? What's new What’s happenin’ ?
+greeting_polite   Morning good morning good evening good afternoon hello it's nice to meet you u
+description  what r u ? what'r you are what is your purpose ? why you where created ? what can you do? u what's your name what is ? name ? how can i call you u
+start    start Start
+
+
