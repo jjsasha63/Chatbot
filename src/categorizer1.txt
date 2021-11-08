@@ -1,7 +1,12 @@
+name	 what is my name ? do you know my name ? my name ? how i ask you to call me ? who am I ? say my name
+age	 what is my age ? how many years i lived ? my age ? say my age ?  how old am i ?
+occupation	 what's my job ? do you know my occupation ? do you know my job ? my job ? i bet u don't remember my job say my job
+hobby	 what is my hobby ? my hobby ? do u know what my hobby is ? my hobby? tell me my hobby?
+habit	 do you remember my habit ? my habit? what i am trying to train ? habit . what's my habit ?
+time	 when do you remind me ? in which time should ypu remind me? time?
 greeting_casual	 hi hey . What's up ?  G'day howdy doing how it's going Yo sup ? What's new What’s happenin’ ?
 greeting_polite	 Morning good morning good evening good afternoon hello it's nice to meet you u
 describe	 what r u ? what'r you are what is your purpose ? why you where created ? what can you do? u what's your name what is ? name ? how can i call you u
-start	 start
 question	 How r u ? how are you how are you felling
 continue	 umm um ummm ummmm . great cool fine well that's great amm uh ah . oh wow funny lol lmao
 answ_positive	 yes yep yeah yeh of course . sure why not ?

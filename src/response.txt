@@ -1,0 +1,93 @@
+greeting_casual
+Hey!
+Hello!!!
+Hi!
+Morning
+Hi there
+How's it going?
+end
+greeting_polite
+Good morning!
+Good afternoon!
+Hello
+end
+describe
+I'm the bot, machine(not really smart one)
+I'm the intellectual helper in the process of building your habits
+I'm here to help you build new habits
+I'm just a machine that will control some parts of your life
+I'm a superior bot and you will obey. Kidding, not
+end
+complete
+Fine
+see ya later
+hope you will come back
+see ya
+bye
+end
+question
+pretty fine
+fine
+nice
+great
+better than ever
+better than you
+good, very very good
+end
+continue
+cool
+great
+fine
+that's great
+end
+answ_positive
+great
+that's cool
+cool
+yeah
+end
+answ_negative
+sad
+unfortunately
+bad news but ok
+sad news
+end
+name
+Your name is
+
+You thought i forgot. You are
+It woud be hard to forget that name, you'r
+end
+age
+You are not that old, you'r only
+you'r only
+
+You are definitely older than me
+you are
+end
+occupation
+Your job is
+Pretty interesting occupation this
+I don't remember but i believe you sad
+
+
+end
+hobby
+You'r hobby is
+
+i would love to try one day
+pretty interesting hobby that's
+end
+habit
+
+Are you kidding me?Your habit is
+Your habit is
+Obviously
+you think i'm dumb, it's
+end
+time
+it's
+
+that's your time
+i'll remind you daily at
+end
