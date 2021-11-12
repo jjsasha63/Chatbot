@@ -70,7 +70,6 @@ Your job is
 Pretty interesting occupation this
 I don't remember but i believe you sad
 
-
 end
 hobby
 You'r hobby is
@@ -90,4 +89,18 @@ it's
 
 that's your time
 i'll remind you daily at
+end
+change_time
+ok i'll remind you at
+ok your new time is
+well now it's
+ach_positive
+I knew you could do it.
+I've always believed in you.
+Coooool.Congrats, nice result
+end
+ach_negative
+Sad, but you still can do it
+Oh, please try harder next time. I know u can
+I hope you remember, that you agreed to finished your habit on time.
 end

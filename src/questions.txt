@@ -1,11 +1,114 @@
- i'm the automized intellectual system for building better you.I will help you to develop your habit.Firstly, let me have your name, please.
- it's a great name. Nice to meet you!!! Can i ask you more personal question?
-Great!!! How old are you?
- it's a great age for a new experiences in life!! What is your occupation?
-  sounds interesting. Let's continue than...
+0
+I'm the automized intellectual system for building better you.I will help you to develop your habit.
+I'm just a bot which will definitely help you become better.
+My name is Steve. I'm not a human but can help you anyway
+end
+1
+Firstly, let me have your name, please.
+May I have your name?
+At the first place, would you mind telling me your name?
+end
+2
+ it's a great name. Nice to meet you!!!
+ it's a nice name. Great to meet you!
+ it's a pretty special name! Nice to meet you!!!!
+end
+3
+Can i ask you more personal question?
+May i get more personal information from you?
+Would you mind telling me a little more?
+end
+4
+Thanks!
+Great!
+Nice!
+end
+5
+How old are you?
+What's your age?( if it's not offensive)
+Please tell me your age.
+end
+6
+ it's a great age for a new experiences in life!!
+ it's great.
+ it's cool. You still can do anything you want.
+end
+7
+What is your occupation?
+What's your job?
+Would you mind telling me your occupation?
+end
+8
+ sounds interesting.
+ sounds as a job i would love to have
+ sounds as a dream job.
+end
+9
 Then what's your hobby?
- that's really cool
-Attention: you have to understand the importance of this process for you. Do you agree to dedicate some of your time( maybe pretty important for you) for your habit?
+Please, tell me your hobby(if you have one)
+What do you do at your free time?
+end
+10
+ that's really cool.
+ sounds interesting.
+ it's pretty interesting. I would love to try.
+end
+11
+Let's continue than...
+Ok than...
+Ok what's next...
+end
+12
+Attention: you have to understand the importance of this process for you.
+You need to understand that in order to get some results you should work hard.
+Attention: this bot created to improve your life, but it requires a lot of work from your side.
+end
+13
+Do you agree to dedicate some of your time( maybe pretty important for you) for your habit?
+Do you agree to do what you have to do no meter what?
+Do you agree to do your habit daily
+end
+14
+That's great!!!!!
+Great news!!
+That's cool. Great decision.
+end
+15
 What habit do you wanna develop?
- sounds interesting.When do you want me to remind about hobby?
+Tell me about your habit.
+What's your habit?
+end
+16
+ sounds interesting.
+ sounds like a thing i would love to try
+ it's pretty unique
+end
+17
+When do you want me to remind about your habit? (Please enter time in format - hour:minute)
+Enter the time in format hour:minute. I will remind you to do your work at this time.
+Please enter the time when i will notify you to do your job. (Please enter time in format - hour:minute)
+end
+18
  it's your new starry time for becoming better.
+ each day i will remind you about your habit
+ it's a time that you'll remember. i hope.
+end
+19
+
+
+
+end
+20
+Did you do what you promise to do?
+I hope you have finished your duty. Have you?
+Have you finished training your habit today?
+end
+21
+days it's nice result ,I guess.
+days - it's your progress.
+days it's nice, don't lose it.
+end
+22
+You're better than
+Wow! You get farther than
+You are got farther than
